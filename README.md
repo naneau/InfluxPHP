@@ -7,7 +7,7 @@ Simple PHP client for [InfluxDB](http://influxdb.org/), an open-source, distribu
 InfluxDB > v0.9 support
 =======================
 
-The 0.2.0 version of this library now supports InfluxDB 0.9. Please note that InfluxDB 0.9 is still pre-release software. 
+The 0.90.0 version of this library now supports InfluxDB 0.9. Please note that InfluxDB 0.9 is still pre-release software. 
 
 InfluxDB v0.8.X users
 =====================
@@ -27,7 +27,7 @@ With InfluxDB 0.9 and above:
 ```json
 {
     "require": {
-        "crodas/influx-php": "~0.2.*"
+        "crodas/influx-php": "~0.9.0"
     }
 }
 ```
@@ -37,7 +37,7 @@ With InfluxDB 0.8.*:
 ```json
 {
     "require": {
-        "crodas/influx-php": "0.1.*"
+        "crodas/influx-php": "~0.1.0"
     }
 }
 ```
